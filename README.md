@@ -35,6 +35,7 @@ A full-featured, modern **ticket system bot** for Discord using `discord.py` wit
    python bot.py
 
 ## Folder Structure
+```bash
 ticket-bot/
 ├── bot.py
 ├── cogs/
